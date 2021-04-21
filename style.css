@@ -1,0 +1,48 @@
+
+body{
+  background-color: #222831;
+}
+a:visited{
+  color: #00adb5;
+}
+a:hover{
+  color: #0061a8;
+}
+h1, h2, li, p, th, tr, label{
+  color: #eeeeee;
+}
+input, textarea{
+  background-color: #393e46;
+  color: white;
+  border-style: none;
+}
+hr{
+  border-color: #393e46;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;
+  width: 5%;
+}
+table{
+  border-collapse: collapse;
+  width: 50%;
+  border-color: #393e46;
+  border-width: 0px;
+}
+th{
+  background-color: #393e46;
+  color: #eeeeee;
+}
+th, td{
+  padding: 5px;
+}
+td{
+  text-align: center;
+}
+#test{
+  width: auto;
+}
+#test2{
+  font-size: 12px;
+  text-align: left;
+}
