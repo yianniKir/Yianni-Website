@@ -1,0 +1,84 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #252a34;
+}
+.subtext{
+  color: #eeeeee;
+  margin: 0;
+  display: block;
+}
+.toptext{
+  color: #08d9d6;
+  margin: 0;
+  display: inline-block;
+  font-size: 125px;
+  font-weight: bold;
+}
+.skills{
+  padding: 20px;
+}
+hr{
+  margin: 0;
+  height: 5px;
+  background-color: white;
+  border-style: none;
+}
+h1{
+  color: #08d9d6;
+  margin: 0;
+}
+h2,h3,h4,h5,h6{
+  color: #eeeeee;
+  margin: 0;
+}
+a:link{
+  color: #ff2e63;
+}
+a:visited{
+  color: #ff2e63;
+}
+p{
+  color: #eeeeee;
+  display: block;
+  margin: 0;
+  padding: 0 300px 0;
+  font-size: 20px;
+}
+.boy{
+  margin: 0 auto;
+  height: 250px;
+  width: 250px;
+  display: block;
+}
+.profile{
+  padding: 20px 20px;
+}
+.top-container{
+  background-color: #252a34;
+}
+.bottom-container{
+  background-color: #252a34;
+}
+.middle-container{
+  background-color: #252a34;
+}
+.laptop{
+  height: 250px;
+  width: 472px;
+  display: block;
+  margin: 20px auto;
+}
+.stock{
+  margin: 20px auto;
+  height: 250px;
+  width: 250px;
+  display: block;
+}
+.contact-me{
+  padding: 20px;
+}
+.getInTouch{
+  padding-bottom: 20px;
+}
